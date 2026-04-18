@@ -27,5 +27,5 @@
 *💚<img src="https://www.vietcap.com.vn/api/cms-api/public/website/vcsc-logo.png" height="20" />💚*
 
 *Main account: [@Kitkitkittt](https://github.com/Kitkitkittt).*
-*Code : [@Kohnnn](https://github.com/Kohnnn).*
+*Code: [@Kohnnn](https://github.com/Kohnnn).*
 *Repositories migrated from legacy suspended account: [@Kiethvph](https://github.com/Kiethvph).*
