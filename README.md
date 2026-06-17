@@ -15,7 +15,7 @@
 - 🏎️ **[f1-racing](https://github.com/Kohnnn/f1-racing)** - F1 data telemetry and computational fluid dynamics simulation ([demo](https://f1-demo.netlify.app/))
 - ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with vectorless-RAG briefs, citation graph, and cross-references
 - 🎮 **[Gampo](https://github.com/Kohnnn/gampo)** - Fake-credit casino and sportsbook probability simulator for education ([demo](https://gampo-educational-simulator.netlify.app))
-- 🎹 **[Chord-Lab](https://github.com/Kitkitkittt/chords-lab)** - Interactive music-theory lab for exploring chords, progressions, and harmony tools ([demo](https://chords-lab-app.netlify.app/))
+- 🎹 **[Chords-Lab](https://github.com/Kitkitkittt/chords-lab)** - Interactive music-theory lab for exploring chords, progressions, and harmony tools ([demo](https://chords-lab-app.netlify.app/))
 
 ### Others
 
