@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research platform with a multi-widget dashboard and database MCP integration ([demo](https://vnibb-web.vercel.app/dashboard))
+- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research platform with a multi-widget dashboard and database MCP integration ([demo under maintenanace](https://vnibb-web.vercel.app/dashboard))
 
 
 ### Visualization & Web
@@ -12,6 +12,7 @@
 
 ### Side Projects
 
+- 🧪 **[Finance Model × AutoScientist](https://huggingface.co/datasets/huyxdang/adaption-final-final)** *(with [Huy X. Dang](https://github.com/huyxdang))* - Fine-tuning domain-specific AI for institutional-grade financial research ([write-up](https://adaptions-writeup.vercel.app/))
 - 🏎️ **[f1-racing](https://github.com/Kohnnn/f1-racing)** - F1 data telemetry and computational fluid dynamics simulation ([demo](https://f1-demo.netlify.app/))
 - ⚖️ **[V-Legal](https://github.com/Kohnnn/V-Legal)** - Vietnamese legal archive with vectorless-RAG briefs, citation graph, and cross-references
 - 🎮 **[Gampo](https://github.com/Kohnnn/gampo)** - Fake-credit casino and sportsbook probability simulator for education ([demo](https://gampo-educational-simulator.netlify.app))
