@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** *(flagship)* - Vietnam-first equity research platform with a multi-widget dashboard and database MCP integration ([demo under maintenanace](https://vnibb-web.vercel.app/dashboard))
+- 📊 **[vnibb](https://github.com/Kohnnn/vnibb)** - Vietnam-first equity research platform with a multi-widget dashboard and database MCP integration ([demo](https://vnibb-web.vercel.app/dashboard))
 
 
 ### Visualization & Web
