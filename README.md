@@ -8,7 +8,7 @@
 
 I work in equity research and build AI and data systems around problems I encounter in practice.
 
-[GitLab](https://gitlab.com/vphk2001) · [Hugging Face](https://huggingface.co/Mikkkkoooo) · [Codeberg](https://codeberg.org/themikonnn)
+[Hugging Face](https://huggingface.co/Mikkkkoooo) · [GitLab](https://gitlab.com/vphk2001) · [Codeberg](https://codeberg.org/themikonnn)
 
 </div>
 
