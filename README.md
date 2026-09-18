@@ -39,7 +39,7 @@ Vietnam-first equity research platform combining financial data, research workfl
 
 Domain-specific model adaptation for institutional financial research, built with [Huy X. Dang](https://github.com/huyxdang). The experiment achieved an **85% evaluation win rate** in the AutoScientist Challenge.
 
-**[Experiment Dataset](https://huggingface.co/datasets/huyxdang/adaption-final-final)** · **[Write-up](https://adaptions-writeup.vercel.app/)** · **[Fine-tuned Model](https://huggingface.co/Mikkkkoooo/qwen35-4b-private-analyst-full-corpus)**
+**[Experiment Dataset](https://huggingface.co/datasets/huyxdang/adaption-final-final)** · **[Write-up](https://adaptions-writeup.vercel.app/)** · **[Fine-tuned Model](https://huggingface.co/Mikkkkoooo/adaption_adapt_market_analysis)**
 
 ---
 
